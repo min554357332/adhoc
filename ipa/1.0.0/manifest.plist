@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://large_river_mountain_lan.gitee.io/adhoc/ipa/1.0.0/AutoHotel</string>
+					<string>https://large_river_mountain_lan.gitee.io/adhoc/ipa/1.0.0/芜人酒店.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -29,7 +29,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.mobile.hotel.distributionwww</string>
+				<string>com.AsssasdgERDH</string>
 				<key>bundle-version</key>
 				<string>1.0.17</string>
 				<key>kind</key>
